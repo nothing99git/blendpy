@@ -2,23 +2,23 @@
   "blend": {
     "LaserNames": {
       "file": "https://raw.githubusercontent.com/nothing99git/blendpy/d109967c2ff78da359c31bbab2eccd8748031a1c/blendfiles/Text%20Reveal%20One%20By%20One/text%20reveal%20one%20by%20one.blend",
-      "preview": "",
-      "youtube": ""
+      "preview": "https://raw.github.com/nothing99git/blendpy/b594ef8824c22bec327dea4644de57a30ba14fc1/blendfiles/Text%20Reveal%20One%20By%20One/laser%20names.png",
+      "youtube": "none"
     },
     "grass": {
       "file": "https://raw.githubusercontent.com/nothing99git/blendpy/40a6473c642a2dbb118c357cd173f892d37e2b05/blendfiles/grass/lot%20of%20grass.blend",
-      "preview": "",
-      "youtube": ""
+      "preview": "https://raw.github.com/nothing99git/blendpy/b594ef8824c22bec327dea4644de57a30ba14fc1/blendfiles/grass/grass.png",
+      "youtube": "https://youtu.be/9hv8t--3zNE?si=Z73nYCij3-SSJRC9"
     },
     "hexagon": {
       "file": "https://raw.githubusercontent.com/nothing99git/blendpy/40a6473c642a2dbb118c357cd173f892d37e2b05/blendfiles/hexagon/hexagons.blend",
-      "preview": "",
-      "youtube": ""
+      "preview": "https://raw.github.com/nothing99git/blendpy/b594ef8824c22bec327dea4644de57a30ba14fc1/blendfiles/hexagon/hexogon.png",
+      "youtube": "https://youtu.be/SQCaXt0lvrU?si=jV5CMwAApAKpsmgy"
     },
     "snake_movement": {
       "file": "https://raw.githubusercontent.com/nothing99git/blendpy/40a6473c642a2dbb118c357cd173f892d37e2b05/blendfiles/snake_movement/snake%20movement%202.blend",
-      "preview": "",
-      "youtube": ""
+      "preview": "https://raw.github.com/nothing99git/blendpy/b594ef8824c22bec327dea4644de57a30ba14fc1/blendfiles/snake_movement/snake%20movement.png",
+      "youtube": "https://youtu.be/F9CkKsmQoKY?si=jBKhLF_QopucYs2-"
     }
   }
 }
