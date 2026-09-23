@@ -2,19 +2,23 @@
   "blend": {
     "LaserNames": {
       "file": "https://raw.githubusercontent.com/nothing99git/blendpy/d109967c2ff78da359c31bbab2eccd8748031a1c/blendfiles/Text%20Reveal%20One%20By%20One/text%20reveal%20one%20by%20one.blend",
-      "preview": ""
+      "preview": "",
+      "youtube": ""
     },
     "grass": {
       "file": "https://raw.githubusercontent.com/nothing99git/blendpy/40a6473c642a2dbb118c357cd173f892d37e2b05/blendfiles/grass/lot%20of%20grass.blend",
-      "preview": ""
+      "preview": "",
+      "youtube": ""
     },
     "hexagon": {
       "file": "https://raw.githubusercontent.com/nothing99git/blendpy/40a6473c642a2dbb118c357cd173f892d37e2b05/blendfiles/hexagon/hexagons.blend",
-      "preview": ""
+      "preview": "",
+      "youtube": ""
     },
     "snake_movement": {
       "file": "https://raw.githubusercontent.com/nothing99git/blendpy/40a6473c642a2dbb118c357cd173f892d37e2b05/blendfiles/snake_movement/snake%20movement%202.blend",
-      "preview": ""
+      "preview": "",
+      "youtube": ""
     }
   }
 }
